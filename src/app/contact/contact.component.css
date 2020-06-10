@@ -1,0 +1,25 @@
+#contact {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: black;
+    color: white;
+    padding: 40px 0;
+
+}
+
+#contact form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#contact form input:last-child {
+    margin-top: 30px;
+}
+
+h3 {
+    font-size: 2.5em;
+    font-weight: 800;
+}

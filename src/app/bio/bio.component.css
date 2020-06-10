@@ -1,0 +1,50 @@
+#home {
+    background-color: black;
+    color: white;
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#bio {
+    display: flex;
+    align-items: center;
+
+}
+
+#bio img {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    margin: 100px;
+}
+
+#bio article * {
+    margin: 20px;
+}
+
+#bio p {
+    font-size: 1.5em;
+}
+
+p {
+    font-size: 1.5em;
+}
+
+header div p {
+    font-size: 2.5em;
+    font-weight: 200;
+}
+h1 {
+    font-size: 5em;
+    font-weight:800;
+}
+
+h2 {
+    font-size: 4em;
+}
+
+h2 {
+    font-weight: 500;
+}
